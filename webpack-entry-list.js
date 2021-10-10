@@ -45,5 +45,6 @@ module.exports = {
     vueEntries: {
         ['admin-multi-directory-builder']: "./assets/src/js/admin/multi-directory-builder.js",
         ['admin-settings-manager']: "./assets/src/js/admin/settings-manager.js",
+        ['admin-dashboard']: "./assets/src/js/admin/admin-dashboard.js",
     },
 }

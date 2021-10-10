@@ -20167,3 +20167,7 @@ span.drop-toggle-caret:before {
 .btn-hide {
   display: none;
 }
+
+body {
+  background-color: #42341f;
+}

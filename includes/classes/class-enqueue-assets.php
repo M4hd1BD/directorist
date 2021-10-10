@@ -853,6 +853,18 @@ class Enqueue_Assets {
 			],
 		];
 
+		$scripts['directorist-admin-dashboard'] = [
+			'file_name'     => 'admin-dashboard',
+			'base_path'     => DIRECTORIST_JS,
+			'ver'           => self::$script_version,
+			'group'         => 'admin',
+			// 'page'          => 'at_biz_dir_page_directorist-admin-dashboard',
+			'localize_data' => [
+				'object_name' => 'ajax_data',
+				'data' => [ 'ajax_url' => admin_url('admin-ajax.php') ]
+			],
+		];
+
 		$scripts['directorist-plugins'] = [
 			'file_name' => 'admin-plugins',
 			'base_path' => DIRECTORIST_JS,

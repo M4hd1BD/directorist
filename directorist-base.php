@@ -197,6 +197,15 @@ final class Directorist_Base
 	public $ATBDP_Review_Custom_Post;
 
 	/**
+	 * admin_dashboard Object.
+	 *
+	 * @var admin_dashboard
+	 * @since 7.0.6
+	 */
+	public $admin_dashboard;
+
+	
+	/**
 	 * Main Directorist_Base Instance.
 	 *
 	 * Insures that only one instance of Directorist_Base exists in memory at any one
@@ -262,6 +271,10 @@ final class Directorist_Base
 			
 			if( is_admin() ){
 				new ATBDP_Extensions();
+
+				self::$instance->admin_dashboard = new Directorist_Admin_Dashboard;
+				self::$instance->admin_dashboard->run();
+
 			}
 			/*Initiate Review and Rating Features*/
 			self::$instance->review = new ATBDP_Review_Rating;
