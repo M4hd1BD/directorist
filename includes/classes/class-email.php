@@ -163,7 +163,11 @@ if (!class_exists('ATBDP_Email')):
          */
         public function get_owner($listing_id)
         {
-            return get_userdata(get_post_field('post_author', $listing_id));
+            $user = wp_get_current_user();
+            if( ! empty( $listing_id ) ){
+                $user = get_userdata(get_post_field('post_author', $listing_id));
+            }
+            return $user;
         }
 
         /**
