@@ -17,99 +17,99 @@ msgstr ""
 msgid "You do not have the right to access this file directly"
 msgstr ""
 
-#: ../directorist-base.php:525, ../directorist-base.php:538
+#: ../directorist-base.php:526, ../directorist-base.php:539
 msgid "Cheatin&#8217; huh?"
 msgstr ""
 
-#: ../directorist-base.php:552
+#: ../directorist-base.php:553
 msgid "Directorist - Listing Right Sidebar"
 msgstr ""
 
-#: ../directorist-base.php:554
+#: ../directorist-base.php:555
 msgid "Add widgets for the right sidebar on single listing page"
 msgstr ""
 
-#: ../directorist-base.php:614, ../includes/classes/class-settings-panel.php:5224
+#: ../directorist-base.php:615, ../includes/classes/class-settings-panel.php:5224
 msgid "Uninstall"
 msgstr ""
 
-#: ../directorist-base.php:620
+#: ../directorist-base.php:621
 msgid "Uninstall Settings"
 msgstr ""
 
-#: ../directorist-base.php:626, ../directorist-base.php:632
+#: ../directorist-base.php:627, ../directorist-base.php:633
 msgid "Listings Import"
 msgstr ""
 
-#: ../directorist-base.php:1131
+#: ../directorist-base.php:1132
 msgid " Reviews"
 msgstr ""
 
-#: ../directorist-base.php:1131
+#: ../directorist-base.php:1132
 msgid " Review"
 msgstr ""
 
-#: ../directorist-base.php:1143, ../templates/single/section-review.php:33
+#: ../directorist-base.php:1144, ../templates/single/section-review.php:36
 msgid "Add a review"
 msgstr ""
 
-#: ../directorist-base.php:1260, ../includes/helper-functions.php:7786, ../includes/classes/class-setup-wizard.php:381, ../includes/elementor/user-login.php:15, ../includes/model/SingleListing.php:1100, ../templates/listing-form/quick-login.php:41, ../templates/single/section-review.php:167
+#: ../directorist-base.php:1261, ../includes/helper-functions.php:7786, ../includes/classes/class-setup-wizard.php:381, ../includes/elementor/user-login.php:15, ../includes/model/SingleListing.php:1105, ../templates/listing-form/quick-login.php:41, ../templates/single/section-review.php:170
 msgid "Login"
 msgstr ""
 
-#: ../directorist-base.php:1261, ../includes/classes/class-helper.php:628, ../includes/classes/class-settings-panel.php:3889, ../includes/classes/class-settings-panel.php:3980, ../includes/model/Account.php:74, ../includes/model/SingleListing.php:1101, ../templates/account/login.php:100
+#: ../directorist-base.php:1262, ../includes/classes/class-helper.php:628, ../includes/classes/class-settings-panel.php:3889, ../includes/classes/class-settings-panel.php:3980, ../includes/model/Account.php:74, ../includes/model/SingleListing.php:1106, ../templates/account/login.php:100
 msgid "Sign Up"
 msgstr ""
 
-#: ../directorist-base.php:1263
+#: ../directorist-base.php:1264
 msgid "You need to %s or %s to submit a review"
 msgstr ""
 
-#: ../directorist-base.php:1169, ../includes/review-rating/class-review-custom-post.php:46, ../templates/single/section-review.php:56
+#: ../directorist-base.php:1170, ../includes/review-rating/class-review-custom-post.php:46, ../templates/single/section-review.php:59
 msgid "Update Review"
 msgstr ""
 
-#: ../directorist-base.php:1169, ../templates/single/section-review.php:56
+#: ../directorist-base.php:1170, ../templates/single/section-review.php:59
 msgid "Leave a Review"
 msgstr ""
 
-#: ../directorist-base.php:1201, ../templates/single/section-review.php:69
+#: ../directorist-base.php:1202, ../templates/single/section-review.php:72
 msgid "Current Rating:"
 msgstr ""
 
-#: ../directorist-base.php:1209, ../templates/single/section-review.php:88
+#: ../directorist-base.php:1210, ../templates/single/section-review.php:91
 msgid "Update Rating:"
 msgstr ""
 
-#: ../directorist-base.php:1209, ../templates/single/section-review.php:88
+#: ../directorist-base.php:1210, ../templates/single/section-review.php:91
 msgid "Your Rating:"
 msgstr ""
 
-#: ../directorist-base.php:1224, ../templates/single/section-review.php:16
+#: ../directorist-base.php:1225, ../templates/single/section-review.php:19
 msgid "Update your review....."
 msgstr ""
 
-#: ../directorist-base.php:1224, ../templates/single/section-review.php:16
+#: ../directorist-base.php:1225, ../templates/single/section-review.php:19
 msgid "Write your review....."
 msgstr ""
 
-#: ../directorist-base.php:1232, ../includes/model/ListingForm.php:500, ../includes/model/SingleListing.php:849, ../includes/model/SingleListing.php:1096
+#: ../directorist-base.php:1233, ../includes/model/ListingForm.php:500, ../includes/model/SingleListing.php:853, ../includes/model/SingleListing.php:1101, ../includes/review/class-builder-screen.php:101
 msgid "Your Email"
 msgstr ""
 
-#: ../directorist-base.php:1233, ../includes/model/SingleListing.php:853, ../includes/model/SingleListing.php:1097
+#: ../directorist-base.php:1234, ../includes/model/SingleListing.php:857, ../includes/model/SingleListing.php:1102
 msgid "example@gmail.com"
 msgstr ""
 
-#: ../directorist-base.php:1248, ../templates/single/section-review.php:130
+#: ../directorist-base.php:1249, ../templates/single/section-review.php:133
 msgid "Submit Review"
 msgstr ""
 
-#: ../directorist-base.php:1243, ../templates/single/section-review.php:124, ../views/admin-templates/theme-extensions/my-themes-extensions/themes-tab.php:24
+#: ../directorist-base.php:1244, ../templates/single/section-review.php:127, ../views/admin-templates/theme-extensions/my-themes-extensions/themes-tab.php:24
 msgid "Update"
 msgstr ""
 
-#: ../directorist-base.php:1245, ../templates/single/section-review.php:126, ../templates/listing-form/custom-fields/file.php:54, ../views/file-uploader.php:51
+#: ../directorist-base.php:1246, ../templates/single/section-review.php:129, ../templates/listing-form/custom-fields/file.php:54, ../views/file-uploader.php:51
 msgid "Remove"
 msgstr ""
 
@@ -469,7 +469,7 @@ msgstr ""
 msgid "Sorry, Something went wrong. Listing ID is missing. Please try again."
 msgstr ""
 
-#: ../includes/checkout/class-checkout.php:80, ../includes/checkout/class-checkout.php:171, ../includes/classes/class-custom-post.php:256, ../includes/classes/class-custom-post.php:264, ../includes/classes/class-settings-panel.php:442, ../includes/classes/class-settings-panel.php:2183, ../includes/model/Listings.php:179, ../includes/model/Listings.php:2000, ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:3399, ../views/front-end/user-dashboard.php:216, ../views/admin-templates/listing-form/expiration-featured-fields.php:57
+#: ../includes/checkout/class-checkout.php:80, ../includes/checkout/class-checkout.php:171, ../includes/classes/class-custom-post.php:256, ../includes/classes/class-custom-post.php:264, ../includes/classes/class-settings-panel.php:442, ../includes/classes/class-settings-panel.php:2183, ../includes/model/Listings.php:179, ../includes/model/Listings.php:2008, ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:3399, ../views/front-end/user-dashboard.php:216, ../views/admin-templates/listing-form/expiration-featured-fields.php:57
 msgid "Featured"
 msgstr ""
 
@@ -483,6 +483,11 @@ msgstr ""
 
 #: ../includes/checkout/class-checkout.php:152
 msgid "Sorry! order not found."
+msgstr ""
+
+#. translators: %d: interval
+#: ../includes/classes/class-abstract-background-process.php:176
+msgid "Every %d minutes"
 msgstr ""
 
 #: ../includes/classes/class-add-listing.php:123, ../includes/classes/class-add-listing.php:128, ../includes/classes/class-add-listing.php:133, ../includes/classes/class-add-listing.php:138, ../includes/classes/class-add-listing.php:143, ../includes/classes/class-add-listing.php:149
@@ -573,15 +578,15 @@ msgstr ""
 msgid "Email already exists!"
 msgstr ""
 
-#: ../includes/classes/class-ajax-handler.php:1004, ../includes/classes/class-ajax-handler.php:1052
+#: ../includes/classes/class-ajax-handler.php:1004, ../includes/classes/class-ajax-handler.php:1052, ../includes/review/class-email.php:83, ../includes/review/class-email.php:137
 msgid "[{site_name}] New review at \"{listing_title}\""
 msgstr ""
 
-#: ../includes/classes/class-ajax-handler.php:1007
+#: ../includes/classes/class-ajax-handler.php:1007, ../includes/review/class-email.php:86
 msgid "Dear User,<br /><br />A new review at {listing_url}.<br /><br />"
 msgstr ""
 
-#: ../includes/classes/class-ajax-handler.php:1055
+#: ../includes/classes/class-ajax-handler.php:1055, ../includes/review/class-email.php:140
 msgid "Dear Administrator,<br /><br />A new review at {listing_url}.<br /><br />Name: {sender_name}<br />Email: {sender_email}"
 msgstr ""
 
@@ -613,7 +618,7 @@ msgstr ""
 msgid "Sorry! Something wrong."
 msgstr ""
 
-#: ../includes/classes/class-announcement.php:31, ../includes/classes/class-announcement.php:264, ../includes/classes/class-settings-panel.php:2528, ../includes/model/ListingDashboard.php:396
+#: ../includes/classes/class-announcement.php:31, ../includes/classes/class-announcement.php:264, ../includes/classes/class-settings-panel.php:2528, ../includes/model/ListingDashboard.php:399
 msgid "Announcements"
 msgstr ""
 
@@ -699,7 +704,7 @@ msgstr ""
 msgid "Listing Name"
 msgstr ""
 
-#: ../includes/classes/class-custom-post.php:251, ../includes/model/SingleListing.php:1048, ../includes/modules/multi-directory-setup/class-multi-directory-migration.php:670, ../views/widgets/map-single.php:15
+#: ../includes/classes/class-custom-post.php:251, ../includes/model/SingleListing.php:1053, ../includes/modules/multi-directory-setup/class-multi-directory-migration.php:670, ../views/widgets/map-single.php:15
 msgid "Location"
 msgstr ""
 
@@ -719,7 +724,7 @@ msgstr ""
 msgid "Created on"
 msgstr ""
 
-#: ../includes/classes/class-custom-post.php:341, ../includes/classes/class-email.php:118, ../includes/model/ListingDashboard.php:152, ../views/front-end/user-dashboard.php:272, ../views/admin-templates/listing-form/expiration-featured-fields.php:45
+#: ../includes/classes/class-custom-post.php:341, ../includes/classes/class-email.php:118, ../includes/model/ListingDashboard.php:155, ../views/front-end/user-dashboard.php:272, ../views/admin-templates/listing-form/expiration-featured-fields.php:45
 msgid "Never Expires"
 msgstr ""
 
@@ -1269,7 +1274,7 @@ msgstr ""
 msgid "Date & Time"
 msgstr ""
 
-#: ../includes/classes/class-metabox.php:211, ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:5056
+#: ../includes/classes/class-metabox.php:211, ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:5058
 msgid "Listing Type"
 msgstr ""
 
@@ -1517,7 +1522,7 @@ msgstr ""
 msgid "Pending Confirmation Message"
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:280, ../includes/model/ListingDashboard.php:466, ../includes/model/SingleListing.php:750, ../views/front-end/user-dashboard.php:30
+#: ../includes/classes/class-settings-panel.php:280, ../includes/model/ListingDashboard.php:469, ../includes/model/SingleListing.php:754, ../views/front-end/user-dashboard.php:30
 msgid "Thank you for your submission. Your listing is being reviewed and it may take up to 24 hours to complete the review."
 msgstr ""
 
@@ -1525,7 +1530,7 @@ msgstr ""
 msgid "Publish Confirmation Message"
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:292, ../includes/model/ListingDashboard.php:467, ../includes/model/SingleListing.php:751, ../views/front-end/user-dashboard.php:31
+#: ../includes/classes/class-settings-panel.php:292, ../includes/model/ListingDashboard.php:470, ../includes/model/SingleListing.php:755, ../views/front-end/user-dashboard.php:31
 msgid "Congratulations! Your listing has been approved/published. Now it is publicly available."
 msgstr ""
 
@@ -1569,7 +1574,7 @@ msgstr ""
 msgid "Title"
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:441, ../includes/classes/class-settings-panel.php:2260
+#: ../includes/classes/class-settings-panel.php:441, ../includes/classes/class-settings-panel.php:2260, ../includes/review/class-settings-screen.php:70
 msgid "You can set the title for featured listing to show on the ORDER PAGE"
 msgstr ""
 
@@ -1997,7 +2002,7 @@ msgstr ""
 msgid "Reset Cache"
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:1506, ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:4801
+#: ../includes/classes/class-settings-panel.php:1506, ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:4804
 msgid "Guest Listing Submission"
 msgstr ""
 
@@ -2385,7 +2390,7 @@ msgstr ""
 msgid "Popular Badge Text"
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:2188, ../includes/model/Listings.php:178, ../includes/model/Listings.php:2012, ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:3413, ../includes/modules/multi-directory-setup/class-multi-directory-migration.php:1604
+#: ../includes/classes/class-settings-panel.php:2188, ../includes/model/Listings.php:178, ../includes/model/Listings.php:2020, ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:3413, ../includes/modules/multi-directory-setup/class-multi-directory-migration.php:1604
 msgid "Popular"
 msgstr ""
 
@@ -2417,59 +2422,59 @@ msgstr ""
 msgid "Threshold in Average Ratings (equal or grater than)"
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:2231
+#: ../includes/classes/class-settings-panel.php:2231, ../includes/review/class-settings-screen.php:41
 msgid "Enable Reviews & Rating"
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:2236
+#: ../includes/classes/class-settings-panel.php:2236, ../includes/review/class-settings-screen.php:46
 msgid "Enable Owner Review"
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:2237
+#: ../includes/classes/class-settings-panel.php:2237, ../includes/review/class-settings-screen.php:47
 msgid "Allow a listing owner to post a review on his/her own listing."
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:2248
+#: ../includes/classes/class-settings-panel.php:2248, ../includes/review/class-settings-screen.php:58
 msgid "Approve Immediately?"
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:2259
+#: ../includes/classes/class-settings-panel.php:2259, ../includes/review/class-settings-screen.php:69
 msgid "Approval Notification Text"
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:2261
+#: ../includes/classes/class-settings-panel.php:2261, ../includes/review/class-settings-screen.php:71
 msgid "We have received your review. It requires approval."
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:2271
+#: ../includes/classes/class-settings-panel.php:2271, ../includes/review/class-settings-screen.php:81
 msgid "Enable Reviewer Image"
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:2282
+#: ../includes/classes/class-settings-panel.php:2282, ../includes/review/class-settings-screen.php:92
 msgid "Enable Reviewer content"
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:2284
+#: ../includes/classes/class-settings-panel.php:2284, ../includes/review/class-settings-screen.php:94
 msgid "Allow to display content of reviewer on single listing page."
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:2294
+#: ../includes/classes/class-settings-panel.php:2294, ../includes/review/class-settings-screen.php:104
 msgid "Required Reviewer content"
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:2296
+#: ../includes/classes/class-settings-panel.php:2296, ../includes/review/class-settings-screen.php:106
 msgid "Allow to Require the content of reviewer on single listing page."
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:2305
+#: ../includes/classes/class-settings-panel.php:2305, ../includes/review/class-settings-screen.php:115
 msgid "Number of Reviews"
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:2306
+#: ../includes/classes/class-settings-panel.php:2306, ../includes/review/class-settings-screen.php:116
 msgid "Enter how many reviews to show on Single listing page."
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:2321
+#: ../includes/classes/class-settings-panel.php:2321, ../includes/review/class-settings-screen.php:131
 msgid "Guest Review Submission"
 msgstr ""
 
@@ -2557,7 +2562,7 @@ msgstr ""
 msgid "\"My Listing\" Tab Label"
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:2455, ../includes/model/ListingDashboard.php:356, ../views/front-end/user-dashboard.php:21
+#: ../includes/classes/class-settings-panel.php:2455, ../includes/model/ListingDashboard.php:359, ../views/front-end/user-dashboard.php:21
 msgid "My Listing"
 msgstr ""
 
@@ -2573,7 +2578,7 @@ msgstr ""
 msgid "\"My Profile\" Tab Label"
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:2496, ../includes/model/ListingDashboard.php:370, ../templates/dashboard/tab-profile.php:31, ../views/front-end/user-dashboard.php:23, ../views/front-end/user-dashboard.php:450
+#: ../includes/classes/class-settings-panel.php:2496, ../includes/model/ListingDashboard.php:373, ../templates/dashboard/tab-profile.php:31, ../views/front-end/user-dashboard.php:23, ../views/front-end/user-dashboard.php:450
 msgid "My Profile"
 msgstr ""
 
@@ -2585,7 +2590,7 @@ msgstr ""
 msgid "\"Favourite Listings\" Tab Label"
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:2512, ../includes/model/ListingDashboard.php:378, ../views/front-end/user-dashboard.php:25
+#: ../includes/classes/class-settings-panel.php:2512, ../includes/model/ListingDashboard.php:381, ../views/front-end/user-dashboard.php:25
 msgid "Favorite Listings"
 msgstr ""
 
@@ -3033,7 +3038,7 @@ msgstr ""
 msgid "Count"
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:3560, ../includes/classes/class-settings-panel.php:3648, ../includes/classes/class-settings-panel.php:3995, ../includes/classes/class-widget-categories.php:161, ../includes/classes/class-widget-locations.php:160, ../includes/classes/class-widget-tags.php:136, ../includes/elementor/all-categories.php:93, ../includes/elementor/all-locations.php:93, ../includes/system-status/system-info-template.php:477, ../includes/system-status/system-information/system-information-template.php:653, ../templates/payment/payment-receipt.php:100, ../templates/single/section-contact_listings_owner.php:30, ../views/widgets/contact-listing-owner.php:11
+#: ../includes/classes/class-settings-panel.php:3560, ../includes/classes/class-settings-panel.php:3648, ../includes/classes/class-settings-panel.php:3995, ../includes/classes/class-widget-categories.php:161, ../includes/classes/class-widget-locations.php:160, ../includes/classes/class-widget-tags.php:136, ../includes/elementor/all-categories.php:93, ../includes/elementor/all-locations.php:93, ../includes/review/class-builder-screen.php:106, ../includes/system-status/system-info-template.php:477, ../includes/system-status/system-information/system-information-template.php:653, ../templates/single-reviews.php:87, ../templates/payment/payment-receipt.php:100, ../templates/single/section-contact_listings_owner.php:30, ../views/widgets/contact-listing-owner.php:11
 msgid "Name"
 msgstr ""
 
@@ -3097,11 +3102,11 @@ msgstr ""
 msgid "Required"
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:3717, ../includes/classes/class-settings-panel.php:4656, ../includes/classes/class-settings-panel.php:4833, ../includes/model/Account.php:61, ../templates/single/section-contact_listings_owner.php:34, ../views/widgets/contact-listing-owner.php:15, ../views/admin-templates/listing-form/contact-info.php:203
+#: ../includes/classes/class-settings-panel.php:3717, ../includes/classes/class-settings-panel.php:4656, ../includes/classes/class-settings-panel.php:4833, ../includes/model/Account.php:61, ../includes/review/class-builder-screen.php:96, ../templates/single-reviews.php:101, ../templates/single/section-contact_listings_owner.php:34, ../views/widgets/contact-listing-owner.php:15, ../views/admin-templates/listing-form/contact-info.php:203
 msgid "Email"
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:3727, ../includes/classes/class-settings-panel.php:4663, ../includes/model/Account.php:63, ../templates/dashboard/tab-profile.php:105, ../views/front-end/user-dashboard.php:521, ../views/admin-templates/listing-form/contact-info.php:212
+#: ../includes/classes/class-settings-panel.php:3727, ../includes/classes/class-settings-panel.php:4663, ../includes/model/Account.php:63, ../includes/review/class-builder-screen.php:116, ../templates/single-reviews.php:115, ../templates/dashboard/tab-profile.php:105, ../views/front-end/user-dashboard.php:521, ../views/admin-templates/listing-form/contact-info.php:212
 msgid "Website"
 msgstr ""
 
@@ -3177,7 +3182,7 @@ msgstr ""
 msgid "Lost your password? Please enter your email address. You will receive a link to create a new password via email."
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:4017
+#: ../includes/classes/class-settings-panel.php:4017, ../includes/review/class-builder-screen.php:94
 msgid "Email Label"
 msgstr ""
 
@@ -3641,7 +3646,7 @@ msgstr ""
 msgid "Locations Page Settings"
 msgstr ""
 
-#: ../includes/classes/class-settings-panel.php:4534, ../includes/review-rating/class-review-custom-post.php:40, ../includes/review-rating/class-review-custom-post.php:44, ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:2495, ../templates/single/fields/reviews.php:11
+#: ../includes/classes/class-settings-panel.php:4534, ../includes/review/class-admin.php:27, ../includes/review/class-settings-screen.php:24, ../includes/review-rating/class-review-custom-post.php:40, ../includes/review-rating/class-review-custom-post.php:44, ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:2495, ../templates/single-reviews.php:146, ../templates/single/fields/reviews.php:11
 msgid "Review"
 msgstr ""
 
@@ -3961,7 +3966,7 @@ msgstr ""
 msgid "Skip setup"
 msgstr ""
 
-#: ../includes/classes/class-setup-wizard.php:59
+#: ../includes/classes/class-setup-wizard.php:59, ../includes/classes/class-updater-notice.php:27
 msgid "Action failed. Please refresh the page and retry."
 msgstr ""
 
@@ -4095,6 +4100,42 @@ msgstr ""
 
 #: ../includes/classes/class-template-hooks.php:73
 msgid "This page is currently selected as the Single Listing Page for '%s' Listing Type"
+msgstr ""
+
+#: ../includes/classes/class-updater-notice.php:31
+msgid "You don&#8217;t have permission to do this."
+msgstr ""
+
+#: ../includes/classes/class-updater-notice.php:94, ../includes/classes/class-updater-notice.php:120
+msgid "Directorist data update"
+msgstr ""
+
+#: ../includes/classes/class-updater-notice.php:94
+msgid "We need to update your directory database to the latest version."
+msgstr ""
+
+#: ../includes/classes/class-updater-notice.php:98
+msgid "Run the updater"
+msgstr ""
+
+#: ../includes/classes/class-updater-notice.php:104
+msgid "It is strongly recommended that you backup your database before proceeding. Are you sure you wish to run the updater now?"
+msgstr ""
+
+#: ../includes/classes/class-updater-notice.php:120
+msgid "Your database is being updated in the background."
+msgstr ""
+
+#: ../includes/classes/class-updater-notice.php:122
+msgid "Taking a while? Click here to run it now."
+msgstr ""
+
+#: ../includes/classes/class-updater-notice.php:135
+msgid "Dismiss"
+msgstr ""
+
+#: ../includes/classes/class-updater-notice.php:137
+msgid "Directorist data update complete. Thank you for updating to the latest version!"
 msgstr ""
 
 #: ../includes/classes/class-upgrade.php:39
@@ -4313,7 +4354,7 @@ msgstr ""
 msgid "Directorist - Map (Single Listing)"
 msgstr ""
 
-#: ../includes/classes/class-widget-map.php:45, ../includes/model/SingleListing.php:1017, ../views/admin-templates/listing-form/add-listing.php:7
+#: ../includes/classes/class-widget-map.php:45, ../includes/model/SingleListing.php:1022, ../views/admin-templates/listing-form/add-listing.php:7
 msgid "No Title"
 msgstr ""
 
@@ -4767,27 +4808,27 @@ msgid_plural "<span>%s</span> Listings"
 msgstr[0] ""
 msgstr[1] ""
 
-#: ../includes/model/ListingDashboard.php:153, ../templates/dashboard/tab-my-listings.php:40
+#: ../includes/model/ListingDashboard.php:156, ../templates/dashboard/tab-my-listings.php:40
 msgid "Expired"
 msgstr ""
 
-#: ../includes/model/ListingDashboard.php:232, ../views/front-end/user-dashboard.php:644
+#: ../includes/model/ListingDashboard.php:235, ../views/front-end/user-dashboard.php:644
 msgid "Untitled"
 msgstr ""
 
-#: ../includes/model/ListingDashboard.php:362, ../views/front-end/user-dashboard.php:105
+#: ../includes/model/ListingDashboard.php:365, ../views/front-end/user-dashboard.php:105
 msgid "%s (%s)"
 msgstr ""
 
-#: ../includes/model/ListingDashboard.php:567, ../views/front-end/user-dashboard.php:312, ../views/front-end/user-dashboard.php:303
+#: ../includes/model/ListingDashboard.php:570, ../views/front-end/user-dashboard.php:312, ../views/front-end/user-dashboard.php:303
 msgid "Renew"
 msgstr ""
 
-#: ../includes/model/ListingDashboard.php:577, ../views/front-end/user-dashboard.php:326
+#: ../includes/model/ListingDashboard.php:580, ../views/front-end/user-dashboard.php:326
 msgid "Promote"
 msgstr ""
 
-#: ../includes/model/ListingDashboard.php:586
+#: ../includes/model/ListingDashboard.php:589
 msgid "Delete Listing"
 msgstr ""
 
@@ -4823,36 +4864,36 @@ msgstr ""
 msgid "Geocode was not successful for the following reason: "
 msgstr ""
 
-#: ../includes/model/Listings.php:1154
+#: ../includes/model/Listings.php:1162
 msgid "No listing found."
 msgstr ""
 
-#: ../includes/model/Listings.php:1583
+#: ../includes/model/Listings.php:1591
 msgid "Posted %s ago"
 msgstr ""
 
-#: ../includes/model/Listings.php:1647
+#: ../includes/model/Listings.php:1655
 msgctxt "search result header"
 msgid "%s result"
 msgid_plural "%s results"
 msgstr[0] ""
 msgstr[1] ""
 
-#: ../includes/model/Listings.php:1644
+#: ../includes/model/Listings.php:1652
 msgctxt "search result header"
 msgid "%s result in %s"
 msgid_plural "%s results in %s"
 msgstr[0] ""
 msgstr[1] ""
 
-#: ../includes/model/Listings.php:1641
+#: ../includes/model/Listings.php:1649
 msgctxt "search result header"
 msgid "%s result for %s"
 msgid_plural "%s results for %s"
 msgstr[0] ""
 msgstr[1] ""
 
-#: ../includes/model/Listings.php:1638
+#: ../includes/model/Listings.php:1646
 msgctxt "search result header"
 msgid "%s result for %s in %s"
 msgid_plural "%s results for %s in %s"
@@ -4895,14 +4936,14 @@ msgstr ""
 msgid "1 Star & Up"
 msgstr ""
 
-#: ../includes/model/SingleListing.php:827, ../includes/model/SingleListing.php:1091
+#: ../includes/model/SingleListing.php:831, ../includes/model/SingleListing.php:1096
 msgctxt "Number of reviews"
 msgid "Review"
 msgid_plural "Reviews"
 msgstr[0] ""
 msgstr[1] ""
 
-#: ../includes/model/SingleListing.php:1030, ../templates/archive/fields/google-map.php:69, ../templates/archive/fields/openstreet-map.php:70
+#: ../includes/model/SingleListing.php:1035, ../templates/archive/fields/google-map.php:69, ../templates/archive/fields/openstreet-map.php:70
 msgid "Get Direction"
 msgstr ""
 
@@ -5072,6 +5113,199 @@ msgstr ""
 msgid "Invalid"
 msgstr ""
 
+#: ../includes/review/class-activity.php:44
+msgid "Invalid request."
+msgstr ""
+
+#: ../includes/review/class-activity.php:48
+msgid "Comment id cannot be empty."
+msgstr ""
+
+#: ../includes/review/class-activity.php:52
+msgid "Comment does not exist!."
+msgstr ""
+
+#: ../includes/review/class-activity.php:56
+msgid "Your intended action is not clear. Please take a valid action."
+msgstr ""
+
+#: ../includes/review/class-activity.php:60
+msgid "You must login to complete this action."
+msgstr ""
+
+#: ../includes/review/class-activity.php:66, ../includes/review/class-activity.php:109
+msgid "Thank you for your feedback."
+msgstr ""
+
+#: ../includes/review/class-activity.php:85
+msgid "Thank you for reporting."
+msgstr ""
+
+#: ../includes/review/class-activity.php:97
+msgid "Nice to hear that it has been helpful."
+msgstr ""
+
+#: ../includes/review/class-admin.php:38, ../includes/review/class-admin.php:48, ../includes/review/class-admin.php:49, ../includes/review-rating/class-review-custom-post.php:39, ../includes/review-rating/class-review-custom-post.php:41, ../templates/single/fields/reviews.php:11
+msgid "Reviews"
+msgstr ""
+
+#: ../includes/review/class-admin.php:102
+msgid "Review extra"
+msgstr ""
+
+#: ../includes/review/class-admin.php:102
+msgid "Comment extra"
+msgstr ""
+
+#: ../includes/review/class-admin.php:145
+msgid "Helpful"
+msgstr ""
+
+#: ../includes/review/class-admin.php:149
+msgid "Unhelpful"
+msgstr ""
+
+#: ../includes/review/class-admin.php:153
+msgid "Reported"
+msgstr ""
+
+#: ../includes/review/class-admin.php:158
+msgid "Images"
+msgstr ""
+
+#: ../includes/review/class-admin.php:172
+msgid "Avg Rating"
+msgstr ""
+
+#: ../includes/review/class-admin.php:201, ../includes/review/class-builder-screen.php:45, ../includes/review/class-markup.php:23, ../includes/review-rating/class-review-custom-post.php:172, ../includes/review-rating/class-review-custom-post.php:307, ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:3392
+msgid "Rating"
+msgstr ""
+
+#: ../includes/review/class-builder-screen.php:31
+msgid "Review Form"
+msgstr ""
+
+#: ../includes/review/class-builder-screen.php:52
+msgid "Regular Fields"
+msgstr ""
+
+#: ../includes/review/class-builder-screen.php:75
+msgid "Rating Type"
+msgstr ""
+
+#: ../includes/review/class-builder-screen.php:77
+msgid "Single"
+msgstr ""
+
+#: ../includes/review/class-builder-screen.php:84
+msgid "Comment Label"
+msgstr ""
+
+#: ../includes/review/class-builder-screen.php:86
+msgid "Comment"
+msgstr ""
+
+#: ../includes/review/class-builder-screen.php:89
+msgid "Comment Placeholder"
+msgstr ""
+
+#: ../includes/review/class-builder-screen.php:91
+msgid "Leave a review"
+msgstr ""
+
+#: ../includes/review/class-builder-screen.php:99
+msgid "Email Placeholder"
+msgstr ""
+
+#: ../includes/review/class-builder-screen.php:104
+msgid "Name Label"
+msgstr ""
+
+#: ../includes/review/class-builder-screen.php:109
+msgid "Name Placeholder"
+msgstr ""
+
+#: ../includes/review/class-builder-screen.php:111
+msgid "Your Name"
+msgstr ""
+
+#: ../includes/review/class-builder-screen.php:114
+msgid "Website Label"
+msgstr ""
+
+#: ../includes/review/class-builder-screen.php:119
+msgid "Website Placeholder"
+msgstr ""
+
+#: ../includes/review/class-builder-screen.php:121
+msgid "Website url"
+msgstr ""
+
+#: ../includes/review/class-comment.php:76
+msgid "<strong>Error</strong>: Review is disabled."
+msgstr ""
+
+#: ../includes/review/class-comment.php:81
+msgid "<strong>Error</strong>: You must login to share review."
+msgstr ""
+
+#: ../includes/review/class-comment.php:94
+msgid "<strong>Error</strong>: Please share review rating."
+msgstr ""
+
+#: ../includes/review/class-comment.php:101
+msgid "<strong>Error</strong>: You are not allowed to share review on your own listing."
+msgstr ""
+
+#: ../includes/review/class-comment.php:106
+msgid "<strong>Error</strong>: You already shared a review."
+msgstr ""
+
+#: ../includes/review/class-markup.php:25
+msgid "Rate..."
+msgstr ""
+
+#: ../includes/review/class-markup.php:26
+msgid "Very poor"
+msgstr ""
+
+#: ../includes/review/class-markup.php:27
+msgid "Not that bad"
+msgstr ""
+
+#: ../includes/review/class-markup.php:28
+msgid "Average"
+msgstr ""
+
+#: ../includes/review/class-markup.php:29
+msgid "Good"
+msgstr ""
+
+#: ../includes/review/class-markup.php:30
+msgid "Perfect"
+msgstr ""
+
+#: ../includes/review/class-walker.php:91
+msgid "Your %1$s is awaiting moderation. This is a preview; your comment will be visible after it has been approved."
+msgstr ""
+
+#: ../includes/review/class-walker.php:89
+msgid "Your %1$s is awaiting moderation."
+msgstr ""
+
+#: ../includes/review/class-walker.php:97
+msgid "comment"
+msgstr ""
+
+#: ../includes/review/class-walker.php:95
+msgid "review"
+msgstr ""
+
+#. translators: 1: is the reply icon
+#: ../includes/review/class-walker.php:153
+msgid "%1$s Reply"
+msgstr ""
+
 #: ../includes/review-rating/class-review-custom-post.php:37
 msgctxt "Post Type General Name"
 msgid "Reviews"
@@ -5079,10 +5313,6 @@ msgstr ""
 
 #: ../includes/review-rating/class-review-custom-post.php:38
 msgctxt "Post Type Singular Name"
-msgid "Reviews"
-msgstr ""
-
-#: ../includes/review-rating/class-review-custom-post.php:39, ../includes/review-rating/class-review-custom-post.php:41, ../templates/single/fields/reviews.php:11
 msgid "Reviews"
 msgstr ""
 
@@ -5134,27 +5364,23 @@ msgstr ""
 msgid "Decline"
 msgstr ""
 
-#: ../includes/review-rating/class-review-custom-post.php:172, ../includes/review-rating/class-review-custom-post.php:307, ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:3392
-msgid "Rating"
-msgstr ""
-
-#: ../includes/review-rating/class-review-custom-post.php:179, ../templates/single/section-review.php:92
+#: ../includes/review-rating/class-review-custom-post.php:179, ../templates/single/section-review.php:95
 msgid "1"
 msgstr ""
 
-#: ../includes/review-rating/class-review-custom-post.php:180, ../templates/single/section-review.php:93
+#: ../includes/review-rating/class-review-custom-post.php:180, ../templates/single/section-review.php:96
 msgid "2"
 msgstr ""
 
-#: ../includes/review-rating/class-review-custom-post.php:181, ../templates/single/section-review.php:94
+#: ../includes/review-rating/class-review-custom-post.php:181, ../templates/single/section-review.php:97
 msgid "3"
 msgstr ""
 
-#: ../includes/review-rating/class-review-custom-post.php:182, ../templates/single/section-review.php:95
+#: ../includes/review-rating/class-review-custom-post.php:182, ../templates/single/section-review.php:98
 msgid "4"
 msgstr ""
 
-#: ../includes/review-rating/class-review-custom-post.php:183, ../templates/single/section-review.php:96
+#: ../includes/review-rating/class-review-custom-post.php:183, ../templates/single/section-review.php:99
 msgid "5"
 msgstr ""
 
@@ -6566,41 +6792,41 @@ msgstr ""
 msgid "Customize the search form for this listing type"
 msgstr ""
 
-#: ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:4789
+#: ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:4792
 msgid "Guest Email Label"
 msgstr ""
 
-#: ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:4795
+#: ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:4798
 msgid "Guest Email Placeholder"
 msgstr ""
 
-#: ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:4802
+#: ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:4805
 msgid "Need Help?"
 msgstr ""
 
-#: ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:4857, ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:4861
+#: ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:4859, ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:4863
 msgid "Directory Builder"
 msgstr ""
 
-#: ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:5042
+#: ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:5044
 msgid "Failed to delete the listing type"
 msgstr ""
 
-#: ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:5035
+#: ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:5037
 msgid "Successfully Deleted the listing type"
 msgstr ""
 
-#: ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:5053
+#: ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:5055
 msgctxt "taxonomy general name"
 msgid "Listing Type"
 msgstr ""
 
-#: ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:5054
+#: ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:5056
 msgctxt "taxonomy singular name"
 msgid "Listing Type"
 msgstr ""
 
-#: ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:5055
+#: ../includes/modules/multi-directory-setup/class-multi-directory-manager.php:5057
 msgid "Search Listing Type"
 msgstr ""
 
@@ -6682,6 +6908,55 @@ msgstr ""
 
 #: ../templates/dashboard-contents.php:20, ../views/front-end/user-dashboard.php:88
 msgid "My Dashboard"
+msgstr ""
+
+#: ../templates/single-reviews.php:29
+msgid "%s response"
+msgid_plural "%s responses"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../templates/single-reviews.php:31
+msgid "Write a review"
+msgstr ""
+
+#: ../templates/single-reviews.php:68
+msgid "There are no reviews yet. %1$sBe the first reviewer%2$s."
+msgstr ""
+
+#: ../templates/single-reviews.php:66
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../templates/single-reviews.php:40
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../templates/single-reviews.php:92
+msgid "Enter your name"
+msgstr ""
+
+#: ../templates/single-reviews.php:106
+msgid "Enter your email"
+msgstr ""
+
+#: ../templates/single-reviews.php:119
+msgid "Enter your website"
+msgstr ""
+
+#: ../templates/single-reviews.php:132
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: ../templates/single-reviews.php:135
+msgid "Share your experience and help others make better choices"
+msgstr ""
+
+#: ../templates/single-reviews.php:151
+msgid "Submit review"
 msgstr ""
 
 #: ../templates/account/login.php:82
@@ -7120,11 +7395,11 @@ msgstr ""
 msgid "Submit"
 msgstr ""
 
-#: ../templates/single/section-review.php:167
+#: ../templates/single/section-review.php:170
 msgid "You need to <a href=\"%s\">%s</a> or <a href=\"%s\">%s</a> to submit a review"
 msgstr ""
 
-#: ../templates/single/section-review.php:167
+#: ../templates/single/section-review.php:170
 msgid " Sign Up"
 msgstr ""
 
