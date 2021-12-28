@@ -3,13 +3,14 @@
  * @author wpWax
  */
 
-namespace wpWax\Directorist\Settings;
+namespace wpWax\Directorist;
 
 defined( 'ABSPATH' ) || die();
 
-class Settings_Panel {
+class Settings {
 
 	private $extension_url    = '';
+	public $sections          = [];
 	public $fields            = [];
 	public $layouts           = [];
 	public $config            = [];
@@ -396,9 +397,17 @@ class Settings_Panel {
     }
 
 	public function prepare_settings() {
+
+
+
+
 		$this->set_fields();
 		$this->set_layouts();
 		$this->set_config();
+	}
+
+    public function create_section( $args ) {
+    	$this->sections[] = $args;
 	}
 
     public function set_config() {
