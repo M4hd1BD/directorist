@@ -1,4 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
+    
     let $ = jQuery;
     // Plasma Slider Initialization
     if($('.plasmaSlider').length !==0){
@@ -50,4 +51,23 @@ document.addEventListener('DOMContentLoaded', () => {
             ]
         });
     }
+    
+    /* Custom Slider Lightbox */ 
+
+    lightGallery(document.getElementById('plasmaSlider__contentsWrap'), {
+        selector: '.plasmaSlider__Img',
+        download: true,
+        mousewheel: true,
+        getCaptionFromTitleOrAlt: 'false',
+        plugins: [lgZoom, lgShare, lgFullscreen],
+        showZoomInOutIcons : true,
+        actualSize: true,
+        actualSizeIcons: {
+            zoomIn: 'lg-actual-size', 
+            zoomOut: 'lg-zoom-out', 
+        },
+        scale: 1,
+    });
+
+    
 })

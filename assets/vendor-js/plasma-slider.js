@@ -6,7 +6,7 @@
  * Initial Release: 1 February, 2020
  * */
 
-(function() {
+ (function() {
   this.PlasmaSlider = function( args ) {
     // Defaults
     this.options = {
@@ -158,11 +158,11 @@
 
       this.container.appendChild(body_elm);
 
-      if ( this.options.showThumbnails && this.options.images.length > 1 ) {
+      // if ( this.options.showThumbnails && this.options.images.length > 1 ) {
         // Slider Footer
         var footer = createDOMSliderfooter(this);
         this.container.appendChild(footer);
-      }
+      // }
       
     };
 
@@ -186,7 +186,7 @@
         })
       }
 
-      if ( this.options.showThumbnails ) {
+      // if ( this.options.showThumbnails ) {
         var thumbnail_items = this.container.querySelectorAll('.plasmaSlider__thumbnailListItem');
         if ( thumbnail_items && thumbnail_items.length ) {
           forEach( thumbnail_items, function(thumbnail_item) {
@@ -195,7 +195,7 @@
             });
           });
         }
-      }
+      // }
       
     };
 
@@ -301,6 +301,11 @@
     var contents = createElementWithClass('plasmaSlider__contents');
     var contents_wrap = createElementWithClass('plasmaSlider__contentsWrap');
 
+    /* Custom Slider Lightbox */
+    contents_wrap.setAttribute("id", "plasmaSlider__contentsWrap");    
+    /* End Custom Slider Lightbox */
+
+
     if ( Array.isArray(self.options.images) && self.options.images.length ) {
       var width_value = (self.options.images.length) * 100;
       var width = 'width: '+ width_value + '%;';
@@ -342,11 +347,16 @@
       slider_item_bg.appendChild(slider_item_img_back);
     }
     
-
     var slider_item_img_front = createElementWithClass('plasmaSlider__bgImg plasmaSlider__' + background_size, 'img');
     slider_item_img_front.src = opt.src;
     slider_item_img_front.alt = opt.alt;
-    slider_item_bg.appendChild(slider_item_img_front);
+    
+    /* Custom Slider Lightbox */
+    var slider_item_img_anchor = createElementWithClass('plasmaSlider__Img', 'a');
+    slider_item_img_anchor.href = opt.src;
+    slider_item_img_anchor.appendChild(slider_item_img_front);
+    slider_item_bg.appendChild(slider_item_img_anchor);
+    /* End Custom Slider Lightbox */
     
     slider_item.appendChild(slider_item_bg);
 
@@ -450,7 +460,7 @@
       data_is_valid = ( data ) ? true : false;
     }
 
-    return ( data_is_valid ) ? data : false; 
+    return ( data_is_valid ) ? data : false;
   }
 
   // isBoolean
